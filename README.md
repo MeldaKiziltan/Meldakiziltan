@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there I'm Melda!👋 
 
-<!--
-**MeldaKiziltan/Meldakiziltan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Mechatronics Engineering student at the University of Waterloo!
 
-Here are some ideas to get you started:
+I'm interested in:
+- ⚡ Hardware and circuitry
+- 💻 Fun programming projects connected to robotics
+- 💾 Hackathons
+- 🦾 Biomechanics
+- 🧠 AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 I am currently seeking Spring 2021 co-ops!
+
+Some projects you'll find here are:
+- FirefighterBot
+- Simon Pattern Game
+- SumoBot
+- UniAssist for SheHacks (check contributions)
+- Upcoming Hack the North project! (Stay tuned!)
+
+📫 Connect with me here:
+- https://www.linkedin.com/in/meldakiziltan/
+
+⚡ Fun fact: I am fluent in English, Turkish, and French!
