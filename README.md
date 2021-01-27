@@ -16,7 +16,7 @@ Some projects you'll find here are:
 - FirefighterBot
 - Simon Pattern Game
 - SumoBot
-- UniAssist for SheHacks V (check contributions)
+- UniAssist for SheHacks V (check pinned)
 - HayStats for Hack the North 2020++
 
 📫 Connect with me here:
