@@ -13,11 +13,11 @@ I'm interested in:
 🤖 I am currently seeking Spring 2021 co-ops!
 
 Some projects you'll find here are:
+- HayStats for Hack the North 2020++
+- UniAssist for SheHacks V
 - FirefighterBot
 - Simon Pattern Game
 - SumoBot
-- UniAssist for SheHacks V (check pinned)
-- HayStats for Hack the North 2020++
 
 📫 Connect with me here:
 - https://www.linkedin.com/in/meldakiziltan/
