@@ -8,6 +8,7 @@ I'm interested in:
 - 💾 Hackathons
 - 🦾 Biomechanics
 - 🧠 AI
+- 🚀 Aerospace
 
 🤖 I am currently seeking Spring 2021 co-ops!
 
