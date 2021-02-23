@@ -24,7 +24,7 @@ Some projects you'll find here are:
 
 ⚡ Fun fact: I am fluent in English, Turkish, and French!
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=meldakiziltan&show_icons=true&theme=tokyonight&count_private=true&hide_title=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=meldakiziltan&show_icons=true&theme=vue-dark&count_private=true&hide_title=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meldakiziltan&hide=css&hide_title=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meldakiziltan&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
