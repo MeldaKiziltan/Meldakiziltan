@@ -10,8 +10,6 @@ I'm interested in:
 - 🧠 AI
 - 🚀 Aerospace
 
-🤖 I am currently seeking Spring 2021 co-ops!
-
 Some projects you'll find here are:
 - HayStats for Hack the North 2020++
 - UniAssist for SheHacks V
