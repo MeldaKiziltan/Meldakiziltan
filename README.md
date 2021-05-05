@@ -3,12 +3,12 @@
 I'm a Mechatronics Engineering student at the University of Waterloo!
 
 I'm interested in:
-- ⚡ Hardware and circuitry
-- 💻 Fun programming projects connected to robotics
+- ⚡ Hardware
+- 💻 Programming
 - 💾 Hackathons
+- 🚀 Aerospace
 - 🦾 Biomechanics
 - 🧠 AI
-- 🚀 Aerospace
 
 Some projects you'll find here are:
 - HayStats for Hack the North 2020++
