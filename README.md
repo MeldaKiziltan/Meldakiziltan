@@ -1,28 +1,12 @@
 ### Hi there I'm Melda!👋 
 
-I'm a Mechatronics Engineering student at the University of Waterloo!
+I'm a Mechatronics Engineering student at the University of Waterloo interested in aerospace, biomechanics, and robotics.
 
-I'm interested in:
-- ⚡ Hardware
-- 💻 Programming
-- 💾 Hackathons
-- 🚀 Aerospace
-- 🦾 Biomechanics
-- 🧠 AI
+👩‍💻 Check out my pinned projects below! Currently looking for Winter 2022 co-op positions.
 
-Some projects you'll find here are:
-- HayStats for Hack the North 2020++
-- UniAssist for SheHacks V
-- FirefighterBot
-- Simon Pattern Game
-- SumoBot
+📫 Connect with me here: https://www.linkedin.com/in/meldakiziltan/
 
-📫 Connect with me here:
-- https://www.linkedin.com/in/meldakiziltan/
-
+Aside from engineering, I love to draw and play guitar. 
 ⚡ Fun fact: I am fluent in English, Turkish, and French!
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=meldakiziltan&show_icons=true&theme=vue-dark&count_private=true&hide_title=true)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meldakiziltan&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
