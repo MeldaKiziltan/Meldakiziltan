@@ -2,7 +2,9 @@
 
 I'm a Mechatronics Engineering student at the University of Waterloo interested in aerospace, biomechanics, and robotics.
 
-👩‍💻 Check out my pinned projects below (scaNFT is a Hack the North 2021 winner!)! Currently looking for Winter 2022 co-op positions.
+👩‍💻 Check out my pinned projects below! Currently looking for Winter 2022 co-op positions.
+
+✨ scaNFT is a Hack the North 2021 winner!
 
 📫 Connect with me here: https://www.linkedin.com/in/meldakiziltan/
 
