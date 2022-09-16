@@ -4,6 +4,8 @@ I'm a Mechatronics Engineering student at the University of Waterloo interested 
 
 👩‍💻 Check out my pinned projects below! 
 
+🌷 Full Stack Software Developer at Tulip.
+
 ✈ Past Full Stack Software Developer at NAVBLUE, an Airbus Company.
 
 ✨ scaNFT is a Hack the North 2021 winner!
