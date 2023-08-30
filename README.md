@@ -6,7 +6,9 @@ I'm a Mechatronics Engineering student at the University of Waterloo interested 
 
 ## Work
 
-🛰️ Team Lead and Mechanical Subteam Lead at UW Orbital.
+🛰️ Team Lead and previously Mechanical Subteam Lead at UW Orbital.
+
+🤖 Systems Engineering (R&D) at Christie Digital Systems.
 
 🌷 Full Stack Software Developer at Tulip.
 
@@ -16,9 +18,11 @@ I'm a Mechatronics Engineering student at the University of Waterloo interested 
 
 ## Wins
 
-✨ scaNFT is a Hack the North 2021 winner!
+🛰️ UW Orbital is the first place winner of the Canadian Satellite Design Challenge 2023 (CSDC-6)!
 
 🏙️ OptUP is an ActInSpace International Space Hackathon 2022 winner!
+
+✨ scaNFT is a Hack the North 2021 winner!
 
 
 <!-- 
