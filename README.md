@@ -18,6 +18,8 @@ I'm a Mechatronics Engineering student at the University of Waterloo interested 
 
 ## Wins
 
+🚙 Spyder is a Hack the North 2023 winner!
+
 🛰️ UW Orbital is the first place winner of the Canadian Satellite Design Challenge 2023 (CSDC-6)!
 
 🏙️ OptUP is an ActInSpace International Space Hackathon 2022 winner!
