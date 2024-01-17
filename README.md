@@ -8,6 +8,8 @@ I'm a Mechatronics Engineering student at the University of Waterloo interested 
 
 🛰️ Team Lead and previously Mechanical Subteam Lead at UW Orbital.
 
+🚗 Project Manager for Mobility Electronics at Robert Bosch Germany.
+
 🤖 Systems Engineering (R&D) at Christie Digital Systems.
 
 🌷 Full Stack Software Developer at Tulip.
